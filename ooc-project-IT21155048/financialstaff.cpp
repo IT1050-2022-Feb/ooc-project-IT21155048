@@ -13,4 +13,4 @@ FinancialStaff::FinancialStaff(string month, double income, double cost){
   reportMonth=month;
   totalIncome=income;
   totalCost=cost;
-}
+} 

@@ -17,4 +17,4 @@ public:
   FinancialStaff(string month, double income, double cost);
 	double calProfit(Payment *pay1,Payment *pay2);
 	void displayProfit();
-};
+}; 

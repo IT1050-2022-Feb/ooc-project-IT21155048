@@ -15,4 +15,4 @@ public:
   DeliveryStaff(string delivery_no,string delivery_period,string delivery_type);
 	void addDeliveryDetails(Order *cOrder);
 	void displayDeliveryDetails();
-};
+}; 
