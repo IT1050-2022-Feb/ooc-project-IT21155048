@@ -12,6 +12,7 @@ public:
   BankCard();
   BankCard(int card_no,string exp_date,int Cvv);
 };
+
 class Payment {
 protected:
 	string paymentId;

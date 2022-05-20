@@ -12,6 +12,7 @@ private:
 	Report* report[8];
 	Payment* payment[7];
 
+
 public:
   FinancialStaff();
   FinancialStaff(string month, double income, double cost);
