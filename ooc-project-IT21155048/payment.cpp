@@ -13,4 +13,4 @@ Payment::Payment(string payment_id,double Amount,double Offers,double total_amou
   amount=Amount;
   offers=Offers;
   totalamount=total_amount;
-  }
+  }  

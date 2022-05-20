@@ -10,4 +10,4 @@ private:
 public:
   PayPal();
   PayPal(string paypal_id,string paypalPassword);
-};
+};  

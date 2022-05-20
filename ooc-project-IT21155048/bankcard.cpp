@@ -12,3 +12,4 @@ BankCard::BankCard(int card_no,string exp_date,int Cvv){
  expDate=exp_date;
   cvv=Cvv;
 }
+ 

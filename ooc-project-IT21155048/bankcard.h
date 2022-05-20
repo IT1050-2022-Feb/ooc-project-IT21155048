@@ -57,4 +57,4 @@ int main()
   Payment *payment1=new Payment();
   BankCard *card1=new BankCard();
   PayPal *pal1=new PayPal();
-}
+} 
