@@ -13,4 +13,4 @@ Customer::Customer(string cId, string name, string address,string contactno) {
 	contactNo = contactno;
 }
 void Customer::login(){
-}
+}   

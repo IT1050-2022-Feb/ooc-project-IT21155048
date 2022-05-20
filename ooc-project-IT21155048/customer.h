@@ -17,4 +17,4 @@ class Customer{
 		void login();
 		void editProfile();
 		void addFeedback();
-};
+};    

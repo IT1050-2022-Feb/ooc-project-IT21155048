@@ -15,4 +15,4 @@ Book::Book(string bookid, double price, string book_type, string book_author){
   bookPrice=price;
   bookType=book_type;
   bookAuthor=book_author;
-}
+}    
