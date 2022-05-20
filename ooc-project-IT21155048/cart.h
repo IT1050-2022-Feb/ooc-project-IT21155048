@@ -13,4 +13,4 @@ public:
 	void displayCart();
 	void addToCart(Order *getOrder);
 	void removeFromCart();
-};          
+};            
