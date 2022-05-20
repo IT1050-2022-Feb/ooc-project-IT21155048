@@ -15,4 +15,4 @@ class Order{
 		void addOrderDetails(string orderId,double amount, string ordereddate,Book *book);
 		void calTotAmount();
 		void displayOrderDetails();	
-};       
+};         
